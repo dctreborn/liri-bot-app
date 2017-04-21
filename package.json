@@ -1,0 +1,34 @@
+{
+  "name": "liri-bot",
+  "version": "1.0.0",
+  "description": "liri bot for twitter, spotify, and imdb",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rukaroa/liri-bot.git"
+  },
+  "keywords": [
+    "liri",
+    "bot",
+    "twitter",
+    "spotify",
+    "imdb",
+    "practice"
+  ],
+  "author": "rukaroa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rukaroa/liri-bot/issues"
+  },
+  "homepage": "https://github.com/rukaroa/liri-bot#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6",
+    "request": "^2.81.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.0"
+  },
+  "devDependencies": {}
+}
